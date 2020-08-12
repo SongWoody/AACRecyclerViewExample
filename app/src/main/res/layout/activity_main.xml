@@ -23,7 +23,8 @@
             android:id="@+id/addButton"
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:text="add"
+            android:text="@string/add"
+            android:textAllCaps="false"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             android:onClick="@{(v)->model.addButtonClick()}"/>
