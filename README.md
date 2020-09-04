@@ -6,3 +6,5 @@
 1. Databinding
 2. ViewModel
 3. RecyclerView
+
+TODO
